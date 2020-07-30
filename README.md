@@ -46,4 +46,4 @@ Rock detection results after applying BDCN model, morphological transformations 
 
 Rock sizes distribution considering a scale/size = 1, Gaudin Schuhmann rock distribution, Rosin Rammler distribution and Swebrec distribution.
 
-![Image3](</Imagen_Prueba_Contours_Info_Graph/IMG_9371/grafica_IMG_9371.jpg>)
+![Image3](</Imagen_Prueba_Contours_Info_Graph/IMG_9371/grafica_IMG_9371.png>)
