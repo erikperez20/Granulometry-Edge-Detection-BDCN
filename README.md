@@ -1,7 +1,7 @@
 ## Rock detection in blasting images using a Bi-Directional Cascade Network (BDCN)
 
 This project uses a Bi-Directional Cascade Network(BDCN) based on the repository https://github.com/pkuCactus/BDCN 
-to detect edges in rock blasting images to obtain the granulometry study of the fragmented material
+to detect edges in rock blasting images to obtain the granulometry study of the fragmented material.
 
 ### Prerequisites
 
@@ -11,7 +11,7 @@ to detect edges in rock blasting images to obtain the granulometry study of the 
 
 ## Clone this repository to local
 ```shell
-git clone https://github.com/pkuCactus/BDCN.git
+git clone https://github.com/erikperez20/Granulometry-Edge-Detection-BDCN.git
 ```
 
 ### Pretrained models
