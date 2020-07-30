@@ -1,0 +1,7 @@
+Curve name		Xc(cm)			P80(cm)		Error(r**2)		Fines(%)
+Gaudin Schuhmann:	153.192186	127.67227261212547	-4.334308	13.579551558332339
+Rosin Rammler    :	83.107649	106.86423752564559	0.896403	13.527946636265586
+Swebrec         :	58.366052	94.53843807551155	0.967129	17.227801685261042
+*The error is based on the coefficient of determination and the closer to one, the less error it presents
+*If there is a negative error, it indicates that the curve has a very high error
+Number of Rocks: 787

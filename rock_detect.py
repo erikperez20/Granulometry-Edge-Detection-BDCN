@@ -29,7 +29,6 @@ def main():
     # Call the preprocess script and import the result model images directory
     process_dir , dictionary =  preprocess.main()
 
-    print('Dictionary: ', dictionary)
 
     # image_dir = args.res_dir
 
@@ -56,11 +55,9 @@ def main():
     for filename in os.listdir(process_dir):
         file_name = os.path.join(process_dir,filename)
         if os.path.isdir(file_name):
-            print("file_name: ",filename)
             for filename2 in os.listdir(file_name):
 
                 file = os.path.join(file_name,filename2)
-                print(file)
 
                 # We apply the filters function to highlight the edges and close contours
                 out = granulometry_stats.filters(file)
