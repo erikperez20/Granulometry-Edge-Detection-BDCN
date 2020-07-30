@@ -38,12 +38,12 @@ Options
 ## Results
 Rock blasting input image taken from mine dataset
 
-![Image](</Data/Imagen_Prueba/IMG_9371.JPG>)
+![Image](</Data/Imagen_Prueba/IMG_2078.JPG>)
 
 Rock detection results after applying BDCN model, morphological transformations and image thresholding.
 
-![Image2](</Imagen_Prueba_Contours_Info_Graph/IMG_9371/contornos_IMG_9371.jpg>)
+![Image2](</Imagen_Prueba_Contours_Info_Graph/IMG_2078/contornos_IMG_2078.jpg>)
 
 Rock sizes distribution considering a scale/size = 1, Gaudin Schuhmann rock distribution, Rosin Rammler distribution and Swebrec distribution.
 
-![Image3](</Imagen_Prueba_Contours_Info_Graph/IMG_9371/grafica_IMG_9371.png>)
+![Image3](</Imagen_Prueba_Contours_Info_Graph/IMG_2078/grafica_IMG_2078.png>)
