@@ -8,7 +8,11 @@ to detect edges in rock blasting images to obtain the granulometry study of the 
 - pytorch >= 1.3.1
 - numpy >= 1.11.0
 - pillow >= 3.3.0
-
+- opencv >= 4.1.2
+- sklearn >= 0.21.3
+- scipy >= 1.4.1
+- imutils >= 0.5.3
+- skimage >= 0.15.0
 ## Clone this repository to local
 ```shell
 git clone https://github.com/erikperez20/Granulometry-Edge-Detection-BDCN.git
